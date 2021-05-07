@@ -1,0 +1,61 @@
+body{
+    text-align: center;
+    background-color: rgb(133, 103, 103);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main{
+    width: 500px;
+    margin: 0 auto;
+}
+.block{
+    padding: 1.5em;
+    margin: 2em 0;
+    border-radius: .6em;
+}
+.block1{
+    background-color: rgb(102, 102, 102);
+}
+.block2{
+    background-color: rgb(206, 198, 182);
+}
+.block3{
+    background-color: darkslategray;
+}
+.block4{
+    background-color: rgb(151, 211, 151);
+}
+h1{
+    background-color: forestgreen;
+    padding: 8px;
+    letter-spacing: 10px;
+    width: 250px;
+    margin: 0 auto;
+    font-family: Arial;
+    color: white;
+    border-top: solid yellow 45px;
+    border-bottom: solid red 45px;
+}
+.color1{
+    color: crimson;
+}
+.paragraph{
+    margin: 20px auto;
+    font-size: 20px;
+}
+.link{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 23px;
+    color: gray;
+    text-decoration: none;
+}
+.active{
+    color: white;
+    text-decoration: underline;
+}
+.litva1{
+    background-color: rgb(202, 149, 158);
+}
+.litva2{
+    font-family: 'Gabriela', serif;
+}
